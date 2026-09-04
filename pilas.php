@@ -117,7 +117,5 @@ function dibujarPila(array $valores): string {
 
 <h2>Despues de hacer pop() (se saco el <?= $sacado ?>)</h2>
 <?= dibujarPila($despues) ?>
-<footer>Juan Jose Sepulveda Alvarez, Dayana Rosario,  Sebastián Sierra</footer>
-
 </body>
 </html>

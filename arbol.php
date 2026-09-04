@@ -240,8 +240,5 @@ $altoSvg = $profundidad * 80 + 40;
     <span class="error">✗ El recorrido inorden no quedo ordenado.</span>
 <?php endif; ?>
 </p>
-
-<footer>Juan Jose Sepulveda Alvarez, Dayana Rosario,  Sebastián Sierra</footer>
-
 </body>
 </html>

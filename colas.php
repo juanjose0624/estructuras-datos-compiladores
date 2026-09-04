@@ -101,7 +101,5 @@ function dibujarCola(array $valores): string {
 
 <h2>Despues de hacer dequeue() (se saco el <?= $sacado ?>)</h2>
 <?= dibujarCola($despues) ?>
-<footer>Juan Jose Sepulveda Alvarez, Dayana Rosario,  Sebastián Sierra</footer>
-
 </body>
 </html>

@@ -146,7 +146,5 @@ function dibujarLista(array $valores): string {
 
 <h2>Despues de eliminar el 20</h2>
 <?= dibujarLista($despues) ?>
-<footer>Juan Jose Sepulveda Alvarez, Dayana Rosario,  Sebastián Sierra</footer>
-
 </body>
 </html>

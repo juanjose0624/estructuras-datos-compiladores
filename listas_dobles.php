@@ -150,7 +150,5 @@ function dibujarListaDoble(array $valores): string {
 
 <h2>Despues de eliminar el 20</h2>
 <?= dibujarListaDoble($despues) ?>
-<footer>Juan Jose Sepulveda Alvarez, Dayana Rosario,  Sebastián Sierra</footer>
-
 </body>
 </html>
